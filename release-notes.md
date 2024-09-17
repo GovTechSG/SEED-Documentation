@@ -36,7 +36,7 @@ This section lists the most recent enhancements, new features and fixes that are
 
 | <div style="width:100px"><b>Type</b></div> | <div style="width:150px"><b>Change</b></div> | **Description** |
 | --- | --- | --- |
-| **New feature** | **Admin view for CIOs and CISOs on SEED Dashboard** | The SEED team have introduced a new feature for CIOs and CISOs on the SEED Dashboard, providing an admin view to enhance management and oversight. Users will need to re-login to the dashboard to effect the changes. If you have queries on this feature, please get in touch with us through our SEED mailbox at: [enquiries_seed@tech.gov.sg](mailto:enquiries_seed@tech.gov.sg).|
+| **New feature** | **Admin view for CIOs and CISOs on SEED Dashboard** | The SEED team have introduced a new feature for CIOs and CISOs on the SEED Dashboard, providing an admin view to enhance management and oversight. Users will need to log in again to access the updated features. If you have queries on this feature, please get in touch with us through our SEED mailbox at: [enquiries_seed@tech.gov.sg](mailto:enquiries_seed@tech.gov.sg).|
 
 
 ## November 2023

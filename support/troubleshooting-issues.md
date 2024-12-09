@@ -94,7 +94,7 @@ Access to SGTS resources may be blocked for the following reasons:
 **Check for Tanium Client installation**
 
 1. Open *Terminal*.
-2. Eun the following command:
+2. Run the following command:
    ```sudo ls /Library/Tanium/TaniumClient```
 3. Enter your macOS password when prompted.
 4. If you see confirmation, as shown in the image below, Tanium Client is installed on your device.

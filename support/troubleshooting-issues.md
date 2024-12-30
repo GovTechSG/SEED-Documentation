@@ -2,6 +2,53 @@
 
 This guide provides solutions to common problems for SEED. Follow the steps below to troubleshoot and resolve the problems you are experiencing.
 
+## Unable to log in to MacBook – login loop
+
+This issue commonly occurs on devices with outdated macOS versions. To resolve it, please upgrade your macOS to version 15.1.1 or later.
+
+### Suggested steps
+
+1. **Log in and upgrade macOS**
+   - Attempt to log in to the MacBook a few times using the correct password. Once logged in, upgrade your macOS.
+   - Alternatively, log in with a different user account (if available). Once logged in, upgrade your macOS.
+
+2. **Reset password in recovery mode**
+   - If you are unable to log in at all, reset your password using recovery mode. Follow the steps in [Apple’s guide to resetting passwords](https://support.apple.com/en-sg/102673). Once the password is reset, log in and upgrade your macOS.
+
+### Recovery mode instructions
+
+Follow the steps below depending on your Mac model. If you are unsure whether your Mac uses Apple silicon, you can try both sets of steps.
+
+#### For Macs with Apple silicon
+
+1. Shut down your Mac. If you are unable to shut it down normally, press and hold the power button for up to 10 seconds until it turns off. (On laptops with Touch ID, press and hold the Touch ID button.)
+2. Press and hold the power button. Continue holding it until your Mac turns on and displays the startup options screen. When you see **Options**, release the power button.
+3. Click **Options**, then click the **Continue** button below it.
+
+#### For other Mac models
+
+1. Shut down your Mac. If you are unable to shut it down normally, press and hold the power button for up to 10 seconds until it turns off. (On laptops with Touch ID, press and hold the Touch ID button.)
+2. Press and release the power button to turn on your Mac.
+3. Immediately after releasing the power button, press and hold **Command (⌘)-R** on your keyboard.
+4. Keep holding the keys until you see the Apple logo or a spinning globe.
+5. If your Mac starts up to the login window again, review the [startup key combinations guide](https://support.apple.com/en-sg/HT201255), then start again from step 1.
+
+### Reset password in recovery mode
+
+1. From the **Utilities** menu in the menu bar, select **Terminal**.
+2. In the Terminal window, type `resetpassword` and press **Return**. This will open the Reset Password assistant.
+3. If prompted to select an admin user, click **Forgotten all passwords?**.
+4. At the Reset Password window:
+   - Click **Deactivate Mac**, then confirm by clicking **Deactivate**.
+   - If the Activation Lock window appears, enter your Apple ID credentials and click **Next**.
+5. Enter your new password information. If multiple user accounts are listed, click **Set Password** next to each account name and provide a new password for each.
+6. When finished, click **Exit**, then restart your Mac from the **Apple menu > Restart**. Log in with your new password.
+
+### Reinstall macOS if necessary
+
+If you are still unable to log in, reinstall macOS through recovery mode. Refer to [Apple’s guide on reinstalling macOS](https://support.apple.com/en-sg/102655).
+
+
 ## Resolving *Cloudflare CF_DNS_Lookup_Failure* error on macOS 15
 
 ![Firewall settings](/images/cferror.png)

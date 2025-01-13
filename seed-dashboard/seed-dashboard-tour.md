@@ -42,5 +42,16 @@ To review your compliance status and view the necessary compliance checks, follo
 ## OS upgrade issues
 
 - **Warning**: Devices running unsupported OS versions receive a warning based on requirements outlined [here](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/). Notifications are sent to users for necessary OS upgrades.
+  
+  ![comp-page](../images/seed-dashboard/warning-os1.png)
+
+  ![comp-page](../images/seed-dashboard/warning-os2.png)
+
+
 - **Blocked**: After a 7-day notification period, unsupported OS devices will be blocked. Email and in-app notifications are provided, and steps for upgrading are accessible on the details page.
+
+  ![comp-page](../images/seed-dashboard/blocked1.png)
+
+  ![comp-page](../images/seed-dashboard/blocked2.png)
+
 

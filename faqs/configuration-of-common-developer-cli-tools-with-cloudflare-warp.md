@@ -1,1 +1,0 @@
-!> This documentation is obsolete. Refer to [SHIP-HATS documentation](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/) for more details.

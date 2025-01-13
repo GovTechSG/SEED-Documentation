@@ -10,7 +10,7 @@
   - [Onboard as a public officer](/onboard-device/public-officer)
   - [Onboard as a vendor](onboard-device/vendor)
 - Post onboarding steps  
-  - [macOS 14 and 13 post onboarding guide](/post-onboarding-instructions/macos-latest.md)
+  - [macOS post onboarding guide](/post-onboarding-instructions/macos-latest.md)
   - [Windows post onboarding guide](/post-onboarding-instructions/windows.md)
 - Monitor using SEED Dashboard
   - [SEED Dashboard overview](/seed-dashboard/seed-dashboard-overview.md)
@@ -25,10 +25,12 @@
   - [Offboarding FAQ](/faqs/offboarding-faq.md)
   - [GCC 1.0 connectivity FAQ](/faqs/gcc1-connectivity-faq.md)
 - Support
-  - [Raise a service request](/support/raise-service-request.md)
-  - [Troubleshooting issues](/support/troubleshooting-issues.md)
+  - [Cloudflare Certificate Update FAQ](/support/cloudflare-cert-update-guide.md)
+  - [Configuration of Common Tools FAQ](/support/configuration-of-common-developer-cli-tools-with-cloudflare-warp-guide.md)
   - [Generate diagnostic files](/support/generate-diagnostic-files)
+  - [Troubleshooting issues](/support/troubleshooting-issues.md)
   - [View SEED service status](/support/seed-status.md)
+  - [Raise a service request](/support/raise-service-request.md)
 - Additional resources 
   - [Best practices](/additional-resources/best-practices.md)
   - [Split tunnel allowlisting](additional-resources/split-tunnel-allowlist)

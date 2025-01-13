@@ -51,6 +51,47 @@ This section lists the most recent enhancements, new features and fixes that are
 | --- | --- | --- |
 | **Update** | **Delay in macOS 15 Sequoia support** | The previously announced support for macOS 15 Sequoia, originally scheduled to begin on 31 August 2024, has been delayed until further notice. For assistance, contact **enquiries_seed@tech.gov.sg**. |
 
+# August 2024
+
+## 30 August 2024
+
+| **Type** | **Change** | **Description** |
+|---|---|---|
+| **Update** | **Windows security updates** | Security updates were pushed through Windows Update Rings in Intune for vendors using Windows devices. <br><br>**Action required:** Save your work before restarting your device if prompted. <br><br>For questions, contact **enquiries_seed@tech.gov.sg**. |
+
+---
+
+## 29 August 2024
+
+| <div style="width:100px"><b>Type</b></div> | <div style="width:150px"><b>Change</b></div> | **Description** |
+|---|---|---|
+| **Update** | **Cloudflare WARP client update** | Updated Cloudflare WARP client versions: <br>- Windows: 2024.6.473.0 <br>- macOS: 2024.6.474.0 <br><br>**Impact:** Users may experience a brief disconnection from SGTS resources during the installation process, lasting up to five minutes. No action is required if your device already has the updated version. <br><br>For assistance, contact **enquiries_seed@tech.gov.sg**. |
+
+---
+
+## 22 August 2024
+
+| <div style="width:100px"><b>Type</b></div> | <div style="width:150px"><b>Change</b></div> | **Description** |
+|---|---|---|
+| **Update** | **macOS 12 onboarding blocked** | Devices running macOS 12 are now blocked from onboarding to SEED. <br><br>For assistance, contact **enquiries_seed@tech.gov.sg**. |
+
+---
+
+## 14 August 2024
+
+| <div style="width:100px"><b>Type</b></div> | <div style="width:150px"><b>Change</b></div> | **Description** |
+|---|---|---|
+| **Bug fix** | **Email and desktop notifications** | Device naming will be standardised for notifications <br><br>For assistance, contact **enquiries_seed@tech.gov.sg**. |
+
+---
+
+## 7 August 2024
+
+| <div style="width:100px"><b>Type</b></div> | <div style="width:150px"><b>Change</b></div> | **Description** |
+|---|---|---|
+| **Update** | **SEED dashboard UI changes** | The SEED Dashboard has been updated with information on SEED Configuration issues. Explore the changes on [SEED Dashboard tour](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/seed-dashboard/seed-dashboard-tour) <br><br>For assistance, contact **enquiries_seed@tech.gov.sg**. |
+
+
 ### 5 August 2024
 
 | <div style="width:100px"><b>Type</b></div> | <div style="width:150px"><b>Change</b></div> | **Description** |
